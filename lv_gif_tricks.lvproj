@@ -22,7 +22,6 @@
 		<Item Name="TestGifs" Type="Folder" URL="../TestGifs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="LICENSE" Type="Document" URL="../LICENSE"/>
 		<Item Name="Read GIF file.vi" Type="VI" URL="../Read GIF file.vi"/>
 		<Item Name="README.md" Type="Document" URL="../README.md"/>
 		<Item Name="Dependencies" Type="Dependencies">
